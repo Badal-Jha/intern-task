@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/rs-infy-intern/static/css/main.c52f09e9.css",
-    "main.js": "/rs-infy-intern/static/js/main.b76be9aa.js",
-    "index.html": "/rs-infy-intern/index.html",
-    "main.c52f09e9.css.map": "/rs-infy-intern/static/css/main.c52f09e9.css.map",
-    "main.b76be9aa.js.map": "/rs-infy-intern/static/js/main.b76be9aa.js.map"
+    "main.css": "/intern-task/static/css/main.c52f09e9.css",
+    "main.js": "/intern-task/static/js/main.b76be9aa.js",
+    "index.html": "/intern-task/index.html",
+    "main.c52f09e9.css.map": "/intern-task/static/css/main.c52f09e9.css.map",
+    "main.b76be9aa.js.map": "/intern-task/static/js/main.b76be9aa.js.map"
   },
   "entrypoints": [
     "static/css/main.c52f09e9.css",
